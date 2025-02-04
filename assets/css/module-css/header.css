@@ -134,6 +134,7 @@
   position: relative;
   display: inline-block;
   padding: 26px 63px;
+  
 }
 
 .main-header .menu-right-content{
@@ -904,6 +905,7 @@ div#mCSB_1_container{
 
 .header-style-two .header-lower .logo-box{
   padding: 26px 0px;
+  float:right;
 }
 
 .header-style-two .sticky-header .logo-box{
@@ -988,7 +990,6 @@ div#mCSB_1_container{
 @media only screen and (max-width: 1499px){
 
   .main-header .outer-container{
-    padding-right: 30px;
   }
 
   .rtl .main-header .outer-container{

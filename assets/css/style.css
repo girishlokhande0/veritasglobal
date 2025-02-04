@@ -69,11 +69,11 @@
 
 
 :root{
-  --theme-color: #77A96A;
-  --secondary-color: #1C403D;
-  --text-color: #1C3D40;
-  --title-color: #1C3D40;
-  --text-font: "DM Sans", sans-serif;
+  --theme-color: #DAC16F;
+  --secondary-color:rgb(0, 0, 0);
+  --text-color:rgb(32, 28, 12);
+  --title-color:rgb(29, 23, 2);
+  --text-font: "Marcellus", serif;
   --title-font: "Marcellus", serif;
 }
 
