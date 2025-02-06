@@ -204,9 +204,24 @@
   background: #EFF2F2;
   text-align: center;
   border-radius: 50%;
-  font-size: 28px;
+  font-size: 20px;
   font-family: var(--title-font);
   color: var(--title-color);
+}
+
+.event-block-two .inner-box .title-box{
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 90px;
+  line-height: 90px;
+  background: #EFF2F2;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 16px;
+  font-family: var(--title-font);
+  color: var(--title-color);
+  
 }
 
 .event-section.events-page .event-block-one .inner-box{
@@ -261,6 +276,11 @@
 
   .event-block-two .inner-box .image-box,
   .event-block-two .inner-box .price-box{
+    margin-bottom: 30px;
+  }
+
+  .event-block-two .inner-box .image-box,
+  .event-block-two .inner-box .title-box{
     margin-bottom: 30px;
   }
 

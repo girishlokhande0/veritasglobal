@@ -446,7 +446,7 @@ html.lenis {
 .theme-btn.btn-two{
   border: 1px solid #E5E5E5;
   color: var(--text-color) !important;
-  padding: 9px 30px;
+  padding: 9px 25px;
 }
 
 .theme-btn.btn-two:hover{
