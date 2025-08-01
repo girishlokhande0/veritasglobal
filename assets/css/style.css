@@ -1435,9 +1435,19 @@ button.ltr {
 }
 
 
+/* Mobile logo */
 
 
+.mobile-logo {
+  display: none;
+}
 
+/* Show only on screens 767px wide and below (typical mobile devices) */
+@media (max-width: 767px) {
+  .mobile-logo {
+    display: block;
+  }
+}
 
 
 
